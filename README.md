@@ -2,7 +2,14 @@
 
 <div>An E-Commerce Big Screen Application for Getting Clothing, Shoes, jeweleries and More daily Life Usable Things.</div>
 
+## ...
+Live Link ===> https://nordstormrack.netlify.app/
+Blog Link ===>   https://medium.com/@ahilh871/collaborative-project-work-cc857aa5b199
 
+Presentation Video Link ===>  https://drive.google.com/file/d/1i-9qdZS1CVjUzJK6wOH71yuiQs1phneg/view?usp=sharing
+
+
+## ...
 
 <h1>Contributors</h1>
 <ul>
@@ -64,10 +71,4 @@
 
 ![Screenshot (290)](https://user-images.githubusercontent.com/101568121/192555778-1c4ed195-dfb5-441f-99e7-d3656f981298.png)
 
-## ...
 
-Blog Link ===>   https://medium.com/@ahilh871/collaborative-project-work-cc857aa5b199
-
-Presentation Video Link ===>  https://drive.google.com/file/d/1i-9qdZS1CVjUzJK6wOH71yuiQs1phneg/view?usp=sharing
-
-Live Link ===> https://nordstormrack.netlify.app/
