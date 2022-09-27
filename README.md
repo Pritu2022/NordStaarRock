@@ -46,7 +46,21 @@
 <h1> Some Good Screenshots Of Our Application</h1>
 
 
-<Img width="300px" src="https://site-images.similarcdn.com/image?url=nordstromrack.com&t=4&s=1&h=c449b7fa295161e34c857acd5957409cb65d4c410ca567a1cc5487e519e349e7" />
+![Screenshot (286)](https://user-images.githubusercontent.com/101568121/192554823-e280e446-62f9-437f-b48e-c92a035ddcab.png)
+
+
+
+
+
+![Screenshot (287)](https://user-images.githubusercontent.com/101568121/192554966-aa45dd47-a8f7-494d-8030-fe734923560c.png)
+
+
+
+![Screenshot (288)](https://user-images.githubusercontent.com/101568121/192554998-f52977b3-01c0-466c-82c1-360e56c0d54e.png)
+
+
+
+
 <Img width="600px" src="https://retailinsider.b-cdn.net/wp-content/uploads/2014/05/Nordstrom-Rack-website.png" />
 
 
