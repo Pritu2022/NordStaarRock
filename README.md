@@ -46,23 +46,25 @@
 <h1> Some Good Screenshots Of Our Application</h1>
 
 
+
 ![Screenshot (286)](https://user-images.githubusercontent.com/101568121/192554823-e280e446-62f9-437f-b48e-c92a035ddcab.png)
 
 
-
+## ...
 
 
 ![Screenshot (287)](https://user-images.githubusercontent.com/101568121/192554966-aa45dd47-a8f7-494d-8030-fe734923560c.png)
 
 
+## ...
 
 ![Screenshot (288)](https://user-images.githubusercontent.com/101568121/192554998-f52977b3-01c0-466c-82c1-360e56c0d54e.png)
 
+## ...
 
+![Screenshot (290)](https://user-images.githubusercontent.com/101568121/192555778-1c4ed195-dfb5-441f-99e7-d3656f981298.png)
 
-
-<Img width="600px" src="https://retailinsider.b-cdn.net/wp-content/uploads/2014/05/Nordstrom-Rack-website.png" />
-
+## ...
 
 Blog Link ===>   https://medium.com/@ahilh871/collaborative-project-work-cc857aa5b199
 
